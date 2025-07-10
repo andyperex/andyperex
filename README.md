@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @andyperex
-- 👀 I’m interested in ...building projects that ultimately lead to robotics
-- 🌱 I’m currently learning ...Javasript and Python
+- 👀 I’m interested in ...building projects that ultimately lead to data analytics and robotics for the good of humanity. 
+- 🌱 I’m currently working with ...Javasript and Python and data analysis stack such as QlikSense, tableau and power BI
 - 💞️ I’m looking to collaborate on ... any open-source projects where I can learn new techonlogies. 
 - 📫 How to reach me ...
 
